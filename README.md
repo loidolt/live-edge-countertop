@@ -1,53 +1,26 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 03/05/2023
+tags: woodworking, house
+description: Live edge wood paired with a concrete countertop to create a unique look and warm kitchen island edge.
+slug: live-edge-countertop
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Live Edge Countertop
+
+Live edge wood paired with a concrete countertop to create a unique look and warm kitchen island edge.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Live Edge Countertop](#live-edge-countertop)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+After sitting at the island at my parent's house, I came to the realization that I wanted something physically warmer for our island edge. Using a computer at the island results in cold forearms after a short time, as the stone pulls the heat from your arms.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+This was the solution I came up with, a cherry slab with the concrete countertop poured against the live edge. This would give us the insulating properties of wood, the visual interest of a live edge slab, and the smooth (kid-safe) outside edge of a thick piece of clean-cut solid wood.
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+One slab wasn't sufficient to cover the length we needed, so two slabs were combined with a large scarf joint.
